@@ -1,0 +1,46 @@
+body {
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 60px;
+  font-family: bangers;
+}
+
+#currTemp, #currentWeather, #windSpeed {
+  color: black;
+  text-align: center;
+  font-family: lalezar;
+  font-size: 40px;
+  display: inline-block;
+}
+
+#temp, #currWeath, #wind {
+  color: black;
+  text-align: center;
+  font-family: lalezar;
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 50px;
+}
+
+#convert {
+  color: black;
+  text-align: center;
+  font-family: lalezar;
+  font-size: 20px;
+  top-margin: 20px;
+}
+
+button {
+  border-radius: 10px;
+  border-shadow: 2em;
+  top-margin: 20px;
+  padding: 10px;
+  color: white;
+  background-color: black;
+}
